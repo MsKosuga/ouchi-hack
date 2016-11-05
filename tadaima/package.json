@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MsKosuga/tadaima.git"
+    "url": "git+https://github.com/MsKosuga/ouchi-hack.git"
   },
   "keywords": [
     "raspberrypi"
@@ -21,7 +21,7 @@
   "author": "M.Kosuga",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MsKosuga/tadaima/issues"
+    "url": "https://github.com/MsKosuga/ouchi-hack/issues"
   },
-  "homepage": "https://github.com/MsKosuga/tadaima#readme"
+  "homepage": "https://github.com/MsKosuga/ouchi-hack#readme"
 }
