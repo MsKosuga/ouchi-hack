@@ -1,0 +1,27 @@
+{
+  "name": "tadaima",
+  "version": "1.0.0",
+  "description": "ouchi-hack tadaima sample code",
+  "main": "app.js",
+  "dependencies": {
+    "onoff": "^1.1.1",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MsKosuga/tadaima.git"
+  },
+  "keywords": [
+    "raspberrypi"
+  ],
+  "author": "M.Kosuga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MsKosuga/tadaima/issues"
+  },
+  "homepage": "https://github.com/MsKosuga/tadaima#readme"
+}
